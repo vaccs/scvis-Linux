@@ -1,0 +1,9 @@
+MainWindowX:1063.0
+MainWindowY:347.0
+MainWindowWidth:400.0
+MainWindowHeight:280.0
+FontSize:1.0
+VarRepFontSize:1.0
+PlayerX:1248.0
+PlayerY:354.0
+PlayerSpeed:8
